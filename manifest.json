@@ -1,0 +1,15 @@
+{
+    "customApps": [
+        {
+            "internalName": "TEMPLATE_SIO",
+            "name": "Template SIO",
+            "description": "Plantilla inicio APEX SIO",
+            "author": "Martin Cafiero",
+            "version": "1.0.0",
+            "icon": "",
+			"url": "http://bchapp489/template_sio/",
+			"source": "http://bchapp489/template_sio/template_sio.sql",
+			"zip": ""
+        }
+    ]
+}
