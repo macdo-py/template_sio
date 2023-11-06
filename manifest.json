@@ -7,8 +7,8 @@
             "author": "Martin Cafiero",
             "version": "1.0.0",
             "icon": "",
-			"url": "https://github.com/macdo-py/template_sio/blob/main/",
-			"source": "https://github.com/macdo-py/template_sio/blob/main/f1009.sql",
+			"url": "https://raw.githubusercontent.com/macdo-py/template_sio/main/",
+			"source": "https://raw.githubusercontent.com/macdo-py/template_sio/main/f1009.sql",
 			"zip": ""
         }
     ]
