@@ -7,7 +7,7 @@
             "author": "Martin Cafiero",
             "version": "1.0.1",
             "icon": "",
-			"url": "https://raw.githubusercontent.com/macdo-py/template_sio/main/",
+			"url": "https://github.com/macdo-py/template_sio",
 			"source": "https://raw.githubusercontent.com/macdo-py/template_sio/main/f109.sql",
 			"zip": "https://raw.githubusercontent.com/macdo-py/template_sio/main/f109.zip"
         }
